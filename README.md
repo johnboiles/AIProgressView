@@ -18,7 +18,7 @@ Drag ```AIProgressView.h``` and ```AIProgressView.m``` into your project.
 
 ## ARC Support
 
-AIURLCache supports ARC. 
+AIProgressView supports ARC. 
 
 # License
 
